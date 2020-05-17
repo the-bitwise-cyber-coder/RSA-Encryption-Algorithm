@@ -66,7 +66,7 @@ disp(c);
 
 %Encrypt
 disp('Cipher Text: ');
-cipher=maths(c,e,N);
+cipher=maths(c,e,N)
 
 
 disp('Decrypted ASCII Text: ');
